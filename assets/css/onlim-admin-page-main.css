@@ -1,0 +1,59 @@
+.onlim-alert {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  box-shadow: 0 1px 2px rgba(0,0,0,.2);
+  background-color: #fff;
+  border: 1px solid #e5e5e5;
+  min-height: 0;
+  max-width: 1280px;
+  margin-bottom: 2rem;
+  padding: 1rem;
+}
+.onlim-alert-img {
+  width: 250px;
+  margin-right: 20px;
+  flex-shrink: 0;
+}
+.onlim-buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 768px;
+}
+.onlim-login, .onlim-register {
+  width: 100%;
+  max-width: 350px;
+}
+.onlim-login div, .onlim-register div {
+  display: flex;
+}
+.onlim-login .onlim-btn, .onlim-register .onlim-btn {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  vertical-align: middle;
+  user-select: none;
+  padding: .5rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .25rem;
+  color: #fff;
+  background-color: #42A8CA;
+  border-color: #42A8CA;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  text-decoration: none;
+  width: 100%;
+}
+.onlim-login .onlim-btn:hover, .onlim-register .onlim-btn:hover {
+  background-color: #1D81A3;
+  border-color: #1D81A3;
+  text-decoration: none;
+}
+@media (max-width: 767.98px) {
+  .onlim-alert, .onlim-buttons {
+    align-items: start;
+    flex-direction: column;
+  }
+}

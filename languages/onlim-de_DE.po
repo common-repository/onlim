@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Onlim - 1.0.0\n"
+"POT-Creation-Date: 2020-04-21 17:47+0200\n"
+"PO-Revision-Date: 2020-04-21 18:19+0200\n"
+"Last-Translator: \n"
+"Language-Team: Phlegx Systems OG\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/class-onlim-admin.php:75
+#: includes/admin/class-onlim-admin.php:100
+msgid "Onlim Livechat and Chatbot"
+msgstr "Onlim Livechat und Chatbot"
+
+#: includes/admin/class-onlim-admin.php:75
+#: includes/admin/class-onlim-admin.php:83
+#: includes/admin/class-onlim-admin.php:86
+msgid "Onlim"
+msgstr "Onlim"
+
+#: includes/admin/class-onlim-admin.php:76
+#: includes/admin/class-onlim-admin.php:244
+msgid "Onlim Settings"
+msgstr "Onlim Einstellungen"
+
+#: includes/admin/class-onlim-admin.php:76
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/admin/class-onlim-admin.php:102
+msgid "Integrate awesome and free Livechat in Wordpress for everyone."
+msgstr "Toller und kostenloser Livechat in Wordpress für jedermann."
+
+#: includes/admin/class-onlim-admin.php:107
+msgid "Chatbots & Voice Assistants from Onlim."
+msgstr "Chatbots & Sprachassistenten von Onlim."
+
+#: includes/admin/class-onlim-admin.php:109
+msgid ""
+"Automate your customer communication with our fully integrated "
+"Conversational AI platform. Results from over 150 man-years of research from "
+"our core team flow into our solution and allow us to deliver more knowledge "
+"and better conversations."
+msgstr ""
+"Automatisieren auch deine Kundenkommunikation mit unserer voll integrierten "
+"Conversational AI Plattform. Ergebnisse von mehr als 150 Personenjahren "
+"wissenschaftlicher Forschung fließen direkt in unsere Lösung und liefern so "
+"mehr Wissen und damit bessere Konversationen."
+
+#: includes/admin/class-onlim-admin.php:115
+#, php-format
+msgid "Please visit %1$sour website%2$s to get more information!"
+msgstr ""
+"Bitte besuche %1$sunsere Webseite%2$s, um weitere Informationen zu erhalten!"
+
+#: includes/admin/class-onlim-admin.php:125
+msgid "How to get an Onlim Livechat and Chatbot?"
+msgstr "Wie bekomme ich einen Onlim Livechat und Chatbot?"
+
+#: includes/admin/class-onlim-admin.php:130
+msgid "You have already an Onlim account?"
+msgstr "Du hast bereits ein Onlim-Konto?"
+
+#: includes/admin/class-onlim-admin.php:133
+msgid "Sign in"
+msgstr "Anmelden"
+
+#: includes/admin/class-onlim-admin.php:138
+msgid "You don't have an Onlim account?"
+msgstr "Du hast kein Onlim-Konto?"
+
+#: includes/admin/class-onlim-admin.php:141
+msgid "Sign up"
+msgstr "Registrieren"
+
+#: includes/admin/class-onlim-admin.php:158
+msgid "Onlim widget settings"
+msgstr "Onlim Widget Einstellungen"
+
+#: includes/admin/class-onlim-admin.php:165
+msgid "Widget code"
+msgstr "Widget Kode"
+
+#: includes/admin/class-onlim-admin.php:173
+msgid "Widget inclusion"
+msgstr "Widget Einbindung"
+
+#: includes/admin/class-onlim-admin.php:181
+msgid "Activate widget"
+msgstr "Widget aktivieren"
+
+#: includes/admin/class-onlim-admin.php:191
+#, php-format
+msgid ""
+"Please configure the widget for your Wordpress website here. The widget code "
+"can be copied from Onlim chat management area, after %1$sregister for an "
+"account%2$s."
+msgstr ""
+"Bitte konfiguriere das Widget für deine Wordpress-Website hier. Der Widget-"
+"Kode kann vom Onlim-Chat-Verwaltungsbereich kopiert werden, nachdem du "
+"%1$sein Konto registriert%2$s hast."
+
+#: includes/admin/class-onlim-admin.php:213
+#, php-format
+msgid "The widget code will be printed below the opening %s section."
+msgstr ""
+"Dieser Widget Kode wird unterhalb des beginnenden %s Abschnitts hinzugefügt."
+
+#: includes/admin/class-onlim-admin.php:218
+#, php-format
+msgid ""
+"The widget code will be printed above the closing %s section. (recommended)"
+msgstr ""
+"Dieser Widget Kode wird oberhalb des endenden %s Abschnitts hinzugefügt."
+
+#: includes/admin/class-onlim-admin.php:222
+#, php-format
+msgid "The widget code will be printed where you include the %s shortcode."
+msgstr ""
+"Der Widget Kode wird dort hinzugefügt, wo du den %s Shortcode hinzufügst."
+
+#: includes/admin/class-onlim-admin.php:235
+msgid "Check this, to show the widget on your website."
+msgstr "Wähle diese Option aus, um das Widget auf deiner Website anzuzeigen."
+
+#: includes/class-onlim.php:34
+msgid "Cloning is forbidden."
+msgstr "Das Klonen ist verboten."
+
+#: includes/class-onlim.php:41
+msgid "Unserializing instances of this class is forbidden."
+msgstr "Die Deserialisierung von Instanzen dieser Klasse ist verboten."
+
+msgid ""
+"Onlim Livechat and Chatbot plugin. Awesome and free Livechat in Wordpress "
+"for everyone."
+msgstr ""
+"Onlim Livechat und Chatbot Plugin. Toller und kostenloser Livechat in "
+"Wordpress für jedermann."

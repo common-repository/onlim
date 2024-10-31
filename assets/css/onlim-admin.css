@@ -1,0 +1,4 @@
+#wpadminbar #wp-admin-bar-onlim-admin-menu .ab-icon::before {
+  content: '\f130';
+  top: 4px;
+}
